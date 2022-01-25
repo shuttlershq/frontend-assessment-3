@@ -20,7 +20,8 @@ Please take note of the following points:
 - Any Css framework is fine. Tailwindcss will be an added advantage
 - A Mobile Responsive design will be an added advantage
 - Also make sure that your project is on github and accessible to us
-- Please find attached the sql dump to this repository. You can import into database and then export necessary data to csv or find a convenient to get the data to your web frontend. But you do not need to make database calls.
+- Please find attached the sql dump to this repository. You can import into database and then export necessary data to csv or find a convenient way to get the data to your web frontend. But you do not need to make database calls.
+- The tables of interest on the db dump are vehicles, vehicle_telemetries and vehicle_boundary_events
 
 You'll be assessed based on but not limited to the following:
 
